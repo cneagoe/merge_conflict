@@ -1,3 +1,1 @@
-# merge_conflict
-
-# Modified Readme file 2nd time
+# merge_conflict_cip
